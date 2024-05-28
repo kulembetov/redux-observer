@@ -1,0 +1,13 @@
+{
+  "name": "redux-observer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kulembetov/redux-observer.git",
+  "author": "Artur Kulembetov <artur_kulembetov@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.5",
+    "redux": "^5.0.1",
+    "typescript": "^5.4.5"
+  }
+}
